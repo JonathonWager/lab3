@@ -1,0 +1,12 @@
+C:\Users\jmn12\source\repos\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\jmn12\source\repos\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\jmn12\source\repos\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\jmn12\source\repos\lab3\lab3\bin\Debug\lab3.xml
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.vbprojAssemblyReference.cache
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.Resources.resources
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.vbproj.GenerateResource.cache
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.vbproj.CoreCompileInputs.cache
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.xml
+C:\Users\jmn12\source\repos\lab3\lab3\obj\Debug\lab3.pdb
